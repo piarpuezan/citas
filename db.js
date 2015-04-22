@@ -2,7 +2,7 @@
 
 /* configuration settings */
 
-	searchname = 'buscar.html'
+	searchname = 'index.html'
 	
 	
 	usebannercode=true
